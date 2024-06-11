@@ -1,0 +1,4 @@
+"AadClientId": "a8dc875e-3400-4dd8-91df-4eb39a2ad891",
+"AadSecret": "Aeb8Q~HTA2mG64xBITlMWwn3HBJH0vUbNuq3kbT5",
+"AadTenantDomain": "vertekdev.onmicrosoft.com",
+"AadTenantId": "119de762-6e78-4af0-a159-76b9a12af1a4",
