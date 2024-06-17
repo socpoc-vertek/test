@@ -1,4 +1,0 @@
-"AadClientId": "f9f3deab-44c3-4c8a-ac90-7794ce57723b",
-"AadSecret": "TH38Q~yie~UObpvc6nka1F1sJfS3HLNsmwiSXcnD",
-"AadTenantDomain": "vertek.com",
-"AadTenantId": "8ef9cd80-e640-4ca2-ba9b-b63fd8268d07"
